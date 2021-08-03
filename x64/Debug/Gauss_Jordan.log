@@ -1,0 +1,4 @@
+﻿  Gauss_Jordan.cpp
+C:\Users\정준호\Downloads\CPP_PRJ\Coursera_DS\Gauss_Jordan\Gauss_Jordan.cpp(15,33): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\정준호\Downloads\CPP_PRJ\Coursera_DS\Gauss_Jordan\Gauss_Jordan.cpp(20,36): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+  Gauss_Jordan.vcxproj -> C:\Users\정준호\Downloads\CPP_PRJ\Coursera_DS\x64\Debug\Gauss_Jordan.exe
