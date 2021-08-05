@@ -1,4 +1,4 @@
-Getting Inverse of the Matrix using Gauss-Jordan Algorithm with CPP
+Getting Inverse of the Matrix using Gauss-Jordan Algorithm with CPP(C++로 가우스-조던 소거법을 이용한 역행렬구하기)
 ===================================================================
 
 - This Program gets the inverse of $ n$ $*$ $n$ matrix using Gauss-Jordan Algorithm 
